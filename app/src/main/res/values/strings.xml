@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Katha App</string>
+    <string name="katha_name">कथा इतिहास का</string>
+
+    <string name="ad_app_id">ca-app-pub-7540623994349950~4741847792</string>
+    <string name="ad_unit_id">ca-app-pub-7540623994349950/2049815826</string>
+
+    <!--    <string name="ad_app_id">ca-app-pub-3940256099942544~3347511713</string> &lt;!&ndash;    test&ndash;&gt;-->
+    <!--    <string name="ad_unit_id">ca-app-pub-3940256099942544/6300978111</string> &lt;!&ndash;    test&ndash;&gt;-->
+
+
+</resources>
